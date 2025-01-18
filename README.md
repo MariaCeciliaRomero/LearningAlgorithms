@@ -1,5 +1,9 @@
 # Learning Algorithms 
 
+[![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
+
+
 ✨Hi everyone, I’m Cecilia, and I invite you to solve algorithms with me!
 
 Welcome to the **Learning Algorithms** repository! This is a collection of algorithms and data structures implemented in different programming languages. Whether you're a beginner or looking to refine your skills, this repository aims to help you understand and practice key concepts in computer science.
