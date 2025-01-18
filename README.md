@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
+[![Web](https://img.shields.io/badge/GitHub-CeciliaRomero-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/MariaCeciliaRomero)
 
 
 ✨Hi everyone, I’m Cecilia, and I invite you to solve algorithms with me!
