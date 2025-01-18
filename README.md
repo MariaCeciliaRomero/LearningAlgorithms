@@ -6,8 +6,6 @@ Welcome to the **Learning Algorithms** repository! This is a collection of algor
 
 🤖 Over 80% of the tests given to software developers involve algorithms. That’s why this repository will be incredibly useful in helping you tackle challenges in the programming world.
 
-As a programmer, you need to develop a truly unique way of thinking.
-
 💻 "Learning Algorithms" is a personal project aimed at learning and practising programming algorithms from a fundamental perspective. This repository will feature implementations of various classic algorithms and data structures, as well as solutions to typical problems in the IT world, all built from scratch.
 
 ⚙️ I decided to create "Learning Algorithms" as a way to strengthen programming skills, learn to solve logical problems, and enhance analytical abilities. I also want to share this learning journey with the community so that others interested in algorithms can follow the progress and find practical solutions and examples.
